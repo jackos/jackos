@@ -1,1 +1,12 @@
-✅ Rust ✅ Go ✅ JS/TS ✅ HTML/CSS ✅ Python ✅ C/C++
+## My setup
+- Distro: [arch](https://github.com/archlinux)
+- Window System: [X11](https://github.com/freedesktop/xorg-libX11)
+- Window Manager: [i3](https://github.com/i3/i3)
+- Compositor: [picom](https://github.com/yshui/picom) 
+- Shell: [fish](https://github.com/fish-shell/fish-shell)
+- Terminal: [alacritty](https://github.com/alacritty/alacritty)
+- Editor: [helix](https://github.com/helix-editor/helix)
+- File Explorer: [ranger](https://github.com/ranger/ranger)
+- Default Apps: [handlr](https://github.com/chmln/handlr)
+- Git TUI: [lazygit](https://github.com/jesseduffield/lazygit)
+- Browser: [firefox](https://github.com/mozilla/gecko-dev)
