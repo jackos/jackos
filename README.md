@@ -2,7 +2,7 @@
 - Distro: [arch](https://github.com/archlinux)
 - Window System: [X11](https://github.com/freedesktop/xorg-libX11)
 - Window Manager: [leftwm](https://github.com/leftwm/leftwm)
-- Compositor: [picom](https://github.com/yshui/picom)
+- Compositor: none
 - Multiplexer: [zellij](https://github.com/zellij-org/zellij)
 - Shell: [nushell](https://www.nushell.sh/)
 - Terminal: [alacritty](https://github.com/alacritty/alacritty)
