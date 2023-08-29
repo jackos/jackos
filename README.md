@@ -1,13 +1,1 @@
-## My setup
-- Distro: [arch](https://github.com/archlinux)
-- Window System: [X11](https://github.com/freedesktop/xorg-libX11)
-- Window Manager: [i3](https://github.com/i3/i3)
-- Terminal/Multiplexer: [wezterm](https://github.com/wez/wezterm)
-- Shell: [nushell](https://www.nushell.sh/)
-- Editor: [helix](https://github.com/helix-editor/helix)
-- File Explorer: [joshuto](https://github.com/kamiyaa/joshuto)
-- Videos: [mpv](https://github.com/mpv-player/mpv)
-- Image Preview: [emulsion]()
-- Default Apps: [handlr](https://github.com/chmln/handlr)
-- Git TUI: [lazygit](https://github.com/jesseduffield/lazygit)
-- Browser: [firefox](https://github.com/mozilla/gecko-dev)
+
